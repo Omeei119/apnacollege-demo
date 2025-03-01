@@ -1,3 +1,3 @@
 # apnacollege-demo
 This is my First Repository
-Author - Onkar Gaikwad
+Author - Onkar Gaikwad (developer)
